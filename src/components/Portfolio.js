@@ -11,7 +11,7 @@ function Portfolio() {
         </div>
       </div>
       <div className="portfolio-card">
-        <img src={require("/Users/jacksonkent/Desktop/Bootcamp/portfolio2/portfolio/src/components/assets/image2.jpg")} alt="Project 1" />
+        <img src={require("/Users/jacksonkent/Desktop/Bootcamp/portfolio2/portfolio/src/components/assets/image1.jpg")} alt="Project 1" />
         <div className="portfolio-description">
           <a href="https://github.com/jacko2611/chat-support">Chat Support</a>
         </div>
