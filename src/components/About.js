@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.css'; // Import the CSS file
 
-import myPhoto from '/Users/jacksonkent/Desktop/Bootcamp/reactive-portfolio/portfolio/src/my-photo.jpg'; // Import the image
+import myPhoto from '/Users/jacksonkent/Desktop/Bootcamp/portfolio2/portfolio/src/components/assets/my-photo.jpg'; // Import the image
 
 function About() {
   return (
